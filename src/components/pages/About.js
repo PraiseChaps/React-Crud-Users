@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div className="container">
       <div className="py-4">
-        <h1>About Page</h1>
+        <h1>About Pages</h1>
         <p className="lead">
           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque rerum
           hic ab veniam reiciendis cum repudiandae, voluptate explicabo nesciunt
@@ -16,9 +16,14 @@ const About = () => {
           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque rerum
           hic ab veniam reiciendis cum repudiandae, voluptate explicabo nesciunt
           nam accusantium? Soluta cupiditate, accusamus commodi praesentium
-          laborum dolorum libero maiores!
+          laborum dolorum libero maiores! hvcjuhbri rn orvv l
         </p>
-        <p className="lead">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque rerum hic ab veniam reiciendis cum repudiandae, voluptate explicabo nesciunt nam accusantium? Soluta cupiditate, accusamus commodi praesentium laborum dolorum libero maiores!</p>
+        <p className="lead">
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cumque rerum
+          hic ab veniam reiciendis cum repudiandae, voluptate explicabo nesciunt
+          nam accusantium? Soluta cupiditate, accusamus commodi praesentium
+          laborum dolorum libero maiores! sdfdhgjfj
+        </p>
       </div>
     </div>
   );
